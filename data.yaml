@@ -1,0 +1,6 @@
+train: C:/Users/19494/Documents/pythonUCI/cells/data2/images/train
+val: C:/Users/19494/Documents/pythonUCI/cells/data2/images/val
+
+
+nc: 1
+names: ['cell']
